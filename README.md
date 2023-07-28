@@ -8,5 +8,3 @@ Cheese Library is a versatile and user-friendly library that enables developers 
 - File Storage: Upload, store, and retrieve random files of different formats (e.g., documents, images, videos) with ease.
 - Tagging System: Organize links and files using customizable tags, facilitating quick searches and grouping related items together.
 - Secure Storage: Implement robust security measures to protect sensitive data, ensuring privacy and data integrity.
-- Extensible: Easily integrate Cheese Library into existing projects and expand its functionality with custom plugins and extensions.
-- API Documentation: Comprehensive and easy-to-follow documentation to guide developers in utilizing the library effectively.
